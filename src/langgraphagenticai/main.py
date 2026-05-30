@@ -17,7 +17,7 @@ def load_langgrah_agenticai_app():
         return
     
     user_message = st.chat_input("Enter your message: ")
-    print(user_input)
+    #print(user_input)
 
     if user_message:
         try:

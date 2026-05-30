@@ -14,3 +14,4 @@ ddgs
 wikipedia
 arxiv
 faiss-cpu
+tavily-python
